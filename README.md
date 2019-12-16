@@ -1,5 +1,6 @@
 ERYP - I will always think of you fondly
-The collaboration by me and Tewprai Bualoi
+
+The collaboration between me and Tewprai Bualoi
 
 ---
 
