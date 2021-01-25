@@ -87,7 +87,7 @@ class QrCodeScanner extends React.Component {
         </ScrollView>
         <Button
           disabled={Object.keys(this.state.text).length !== 132}
-          title={'Copy bro'}
+          title={'Copy'}
           onPress={
             () => {
               const textForCopy = Object.keys(this.state.text).map((t) => this.state.text[t]).join('')
